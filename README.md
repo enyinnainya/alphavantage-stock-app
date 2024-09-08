@@ -1,4 +1,4 @@
-# Clepher + AlphaVantage Stock App
+#AlphaVantage Stock App
 
 ### A React Application to Display Stock Information from the AlphaVantage API
 
